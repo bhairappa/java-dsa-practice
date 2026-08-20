@@ -28,8 +28,7 @@ public class LongestPalindrome {
 				return false;
 			}
 			start++;
-			end--;
-			
+			end--;		
 		}		
 		return true;
 	}
