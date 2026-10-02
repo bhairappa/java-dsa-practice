@@ -4,7 +4,7 @@ public class VowelsCount {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+   // progvam to count the number of vowels 
 		String s = "vishwa";
 		int count=0;
 		String st = s.toLowerCase();
