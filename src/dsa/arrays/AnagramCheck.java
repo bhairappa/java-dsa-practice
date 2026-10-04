@@ -7,6 +7,7 @@ public class AnagramCheck {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// program to check strings are anagram or not
 
 		String s1 = "gadag";
 		String s2 = "aadgg";
