@@ -5,6 +5,7 @@ public class Sentencereverse {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		// reverse the sentence
 		String st = "we love java and python";
 		StringBuilder sb = new StringBuilder();
 		String[] ss = st.split(" ");
