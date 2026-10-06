@@ -42,6 +42,8 @@
 
 		public class CharacterCount {
 		    private static void charactercount(String input) {
+		    	// program to count characters
+		    	
 		        // Variable initialization
 		        int maxFrequency = 0;
 		        char charDefault = '\0'; // Default character
